@@ -1,5 +1,5 @@
-# Jordy Nguizo       "Data Scientist & ML Engineer"
-
+#   Jordy Nguizo "Data Scientist & ML Engineer"
+ 
 Passionné par l’intelligence artificielle, la science des données et les systèmes intelligents, je développe des solutions innovantes capables de résoudre des problématiques réelles grâce au Machine Learning et aux architectures logicielles modernes.
 
 Actuellement étudiant en Master 2 Data Science & Intelligence Artificielle à l’Institut Supérieur d’Informatique de Dakar (ISI), je suis titulaire d’une Licence en Mathématiques obtenue à l’Université Marien Ngouabi de Brazzaville.
