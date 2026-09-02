@@ -181,15 +181,15 @@ Surveiller les performances et améliorer progressivement les solutions.
 
 ##  Education
 
-###  Master 2 — Data Science & Intelligence Artificielle
+###  Master 2 - Data Science & Intelligence Artificielle
 
-**Institut Supérieur d'Informatique (ISI) — Dakar, Sénégal**
+**Institut Supérieur d'Informatique (ISI) - Dakar, Sénégal**
 
 Spécialisation : Machine Learning • Deep Learning • Generative AI • NLP • Computer Vision • MLOps
 
-###  Licence — Mathématiques
+###  Licence - Mathématiques
 
-**Université Marien Ngouabi — Brazzaville, Congo**
+**Université Marien Ngouabi - Brazzaville, Congo**
 
 Formation en mathématiques appliquées et fondamentales, avec une base solide en statistiques, probabilités et modélisation.
 
@@ -203,6 +203,37 @@ Formation en mathématiques appliquées et fondamentales, avec une base solide e
 *  **MLOps**
 *  **Natural Language Processing**
 *  **Computer Vision**
+
+##  Open to Work
+
+ **Currently looking for an internship opportunity** in:
+
+*  Data Science
+*  Machine Learning
+*  Artificial Intelligence
+*  Data Analytics
+*  ML Engineering
+
+Je suis particulièrement intéressé par les projets liés à la **Finance, FinTech, Risk Management, Fraud Detection et Business Intelligence**.
+
+
+##  Let's Connect
+
+<p align="center">
+  <a href="https://github.com/jnguizo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/
+jordy-nguizo-4b437437b
+/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+   <i>Always learning. Always building. Always improving.</i>
+</p>
+
 
 
 
