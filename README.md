@@ -1,56 +1,93 @@
-# Jordy Nguizo — Data Analyst | Data Scientist & ML Engineer
+#  Hi, I'm Jordy Nguizo
 
-Passionné par l'intelligence artificielle, l'analyse de données et les systèmes intelligents, je développe des solutions innovantes capables de résoudre des problématiques réelles grâce au Machine Learning, à l'analyse décisionnelle et aux architectures logicielles modernes.
+### Data Scientist | Machine Learning Engineer | AI Engineer
 
-Actuellement étudiant en Master 2 Data Science & Intelligence Artificielle à l'Institut Supérieur d'Informatique de Dakar (ISI), je suis titulaire d'une Licence en Mathématiques obtenue à l'Université Marien Ngouabi de Brazzaville.
+**Master 2 Data Science & Intelligence Artificielle - ISI Dakar**
 
-Mon parcours combine une solide formation analytique en mathématiques avec des compétences pratiques en Data Analytics, Data Science, Machine Learning, développement backend et systèmes temps réel.
+Je conçois des solutions d'intelligence artificielle **de bout en bout**, de l'analyse et préparation des données jusqu'à l'entraînement, l'évaluation et le déploiement des modèles.
 
+Mes principaux domaines d'intérêt sont le **Machine Learning, Deep Learning, Generative AI, NLP, Computer Vision et MLOps**, avec un intérêt particulier pour les applications de l'IA dans la **finance et les systèmes intelligents**.
 
-## À propos de moi
-
--  Licence en Mathématiques — Université Marien Ngouabi (Brazzaville)
--  Master 2 en Data Science & Intelligence Artificielle — ISI Dakar
--  Spécialisé en Data Analytics, Machine Learning et IA
--  Thème de mémoire :
-
-  **Conception et réalisation d'un système de détection de fraude à la carte bancaire en temps réel basé sur l'intelligence artificielle**
-
--  Certifications :
-  - SPSS
-  - Excel Avancé
-  - Kobo Collect
+**Currently looking for an internship opportunity in Data Science, Machine Learning or Artificial Intelligence.**
 
 
+##  Areas of Expertise
 
-## Compétences Techniques
+| Domain                             | Focus                                                       |
+| ---------------------------------- | ----------------------------------------------------------- |
+|  **Machine Learning**              | Classification, Regression, Clustering, Feature Engineering |
+|  **Deep Learning**                 | Neural Networks, CNN, Transfer Learning                     |
+|  **Generative AI**                 | LLMs, RAG, Transformers, AI Applications                    |
+|  **Natural Language Processing**   | Text Classification, Embeddings, Transformers               |
+|  **Computer Vision**               | Image Classification, Object Detection, OpenCV              |
+|  **MLOps & Deployment**            | Model Deployment, APIs, Docker, CI/CD                       |
+|  **Data Analytics & BI**           | SQL, Data Visualization, Power BI, Excel                    |
+|  **AI for Finance**                | Fraud Detection, Risk Analytics, Credit Scoring             |
 
-###  Data Analytics & Visualisation
-- Power BI (Dashboards, KPIs, DAX)
-- Excel Avancé (tableaux croisés dynamiques, formules avancées)
-- SPSS
-- Matplotlib & Seaborn
-- Analyse exploratoire des données (EDA)
-- Reporting & storytelling data
-- SQL (requêtes analytiques, agrégations)
+##  Tech Stack
 
-###  Data Science & Intelligence Artificielle
-- Python
-- Machine Learning
-- Scikit-learn
-- Pandas & NumPy
-- XGBoost & Random Forest
-- Prétraitement des données
-- Feature Engineering
-- Modélisation prédictive
+###  Programming & Data
 
-###  Développement Backend & Ingénierie Logicielle
-- FastAPI
-- API REST
-- Architecture Micro-services
-- Systèmes temps réel
-- Sécurisation des API
-- JSON
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=sql" alt="SQL"/>
+  <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas"/>
+  <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy"/>
+</p>
+
+###  Machine Learning & Deep Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV"/>
+</p>
+
+###  Generative AI & NLP
+
+<p>
+  <img src="https://skillicons.dev/icons?i=huggingface" alt="Hugging Face"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Transformers / Python"/>
+</p>
+
+**Focus:** LLMs • RAG • Transformers • Embeddings • Text Classification
+
+###  MLOps & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+</p>
+
+**Focus:** Model Deployment • REST APIs • Docker • CI/CD • Model Serving
+
+###  Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+</p>
+
+### 📊 Data Visualization & Business Intelligence
+
+**Power BI** • **Excel** • **Matplotlib** • **Seaborn**
+
+### ☁️ Cloud & Tools
+
+**Microsoft Azure** • **Google Colab** • **Jupyter Notebook** • **VS Code**
+
+
+
+
+
+
+
+
+
+
 
 ###  Bases de données & Outils
 - PostgreSQL
