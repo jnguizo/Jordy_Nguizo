@@ -71,80 +71,158 @@ Mes principaux domaines d'intérêt sont le **Machine Learning, Deep Learning, G
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
 </p>
 
-### 📊 Data Visualization & Business Intelligence
+###  Data Visualization & Business Intelligence
 
 **Power BI** • **Excel** • **Matplotlib** • **Seaborn**
 
-### ☁️ Cloud & Tools
+###  Cloud & Tools
 
-**Microsoft Azure** • **Google Colab** • **Jupyter Notebook** • **VS Code**
+ **Google Colab** • **Jupyter Notebook** • **VS Code**
 
+##  Featured Projects
 
+###  Intelligent Banking Risk Assistant
 
+**AI • Machine Learning • Finance • Risk Management**
 
+Assistant intelligent dédié à l'analyse des risques bancaires et à l'aide à la décision.
 
+**Technologies :** Python • Machine Learning • NLP • FastAPI • PostgreSQL • Docker
 
+ [View Project](https://github.com/jnguizo/ai-banking-risk-assistant)
 
-
-
-
-
-###  Bases de données & Outils
-- PostgreSQL
-- MySQL
-- Git & GitHub
-- Docker
-- Jupyter Notebook
-
-## Projets
+---
 
 ###  Customer Churn Analytics
-Projet End-to-End d'analyse et de prédiction du churn client pour une entreprise de télécommunications (7 043 clients, 21 variables).
 
-**Réalisations :**
-- Dashboard décisionnel Power BI avec KPIs (taux de churn : 26,54%)
-- Analyse exploratoire complète (EDA) avec Python
-- Modèles ML entraînés : AUC-ROC 0.832 (Logistic Regression)
+**Data Science • Predictive Analytics • Business Intelligence**
 
-**Technologies :** `Python` `Power BI` `Scikit-learn` `XGBoost` `Pandas` `SQL`
+Analyse prédictive du churn client permettant d'identifier les facteurs associés à la résiliation et de prédire les clients à risque.
 
- [GitHub](https://github.com/jnguizo/customer-churn-analytics) | [Demo](https://jnguizo.github.io/customer-churn-analytics)
+**Technologies :** Python • Pandas • Scikit-learn • XGBoost • SQL • Power BI
+
+ **Dataset :** 7,043 clients
+ **ROC-AUC :** 0.832 avec Logistic Regression
+
+ [View Project](https://github.com/jnguizo/customer-churn-analytics)
+
+---
+
+###  Location Price Prediction
+
+**Machine Learning • Regression • Predictive Analytics**
+
+Développement d'un modèle de Machine Learning permettant d'estimer les prix de location à partir des caractéristiques des logements.
+
+**Technologies :** Python • Pandas • Scikit-learn • Data Visualization • Regression
+
+ [View Project](https://github.com/jnguizo/location_price)
+
+##  Key Results
+
+| Project                          | Key Result                                                       |
+| -------------------------------- | ---------------------------------------------------------------- |
+|  **Banking Risk Assistant**      | Solution d'IA orientée analyse des risques et aide à la décision |
+|  **Customer Churn Analytics**    | **ROC-AUC : 0.832** avec Logistic Regression                     |
+|  **Location Price Prediction**   | Modèle prédictif pour l'estimation des prix de location          |
+
+###  What I Build
+
+*  **Data Analytics** — Exploration, nettoyage et analyse de données
+*  **Machine Learning** — Modèles prédictifs et classification
+*  **Artificial Intelligence** — Solutions IA appliquées à des problématiques métier
+*  **FinTech & Risk** — Fraude, risque bancaire et aide à la décision
+*  **ML Engineering** — APIs, déploiement et industrialisation des modèles
+*  **Business Intelligence** — Dashboards et reporting avec Power BI
+
+  ##  My Data Science Workflow
+
+Business Problem
+       ↓
+Data Collection
+       ↓
+Data Cleaning & Preparation
+       ↓
+Exploratory Data Analysis
+       ↓
+Feature Engineering
+       ↓
+Model Development
+       ↓
+Model Evaluation
+       ↓
+API / Application
+       ↓
+Deployment & Monitoring
 
 
-###  Système Intelligent de Détection de Fraude Bancaire
-Plateforme intelligente capable de détecter des transactions bancaires frauduleuses en temps réel grâce au Machine Learning et à une architecture micro-services scalable.
+###  My Approach
 
-**Fonctionnalités principales :**
-- Détection de fraude en temps réel
-- API REST sécurisée avec FastAPI
-- Moteur d'inférence Machine Learning
-- Gestion et supervision des alertes
-- Scoring du risque de fraude
-- Traitement à faible latence
-- Architecture micro-services
+**1. Understand the problem**
+Identifier le besoin métier et définir les objectifs du projet.
 
-**Technologies :** `Python` `FastAPI` `XGBoost` `PostgreSQL` `Docker` `Machine Learning`
+**2. Prepare the data**
+Nettoyer, transformer et contrôler la qualité des données.
 
-## Centres d'intérêt
+**3. Explore & understand**
+Réaliser une analyse exploratoire pour identifier les tendances, corrélations et anomalies.
 
-- Intelligence Artificielle
-- Data Analytics & Business Intelligence
-- Data Science
-- FinTech & Détection de fraude
-- Machine Learning Engineering
-- Cybersécurité
-- Big Data
-- Systèmes intelligents temps réel
+**4. Build predictive models**
+Sélectionner les algorithmes adaptés et optimiser leurs performances.
 
-## Objectif Professionnel
+**5. Evaluate**
+Utiliser des métriques pertinentes pour mesurer la qualité et la robustesse des modèles.
 
-Contribuer au développement de solutions technologiques intelligentes et innovantes capables d'améliorer la prise de décision, la sécurité et la transformation numérique en Afrique et à l'international, en combinant analyse de données et intelligence artificielle.
+**6. Deploy**
+Transformer les modèles en solutions utilisables via des APIs ou applications.
 
-## Me contacter
+**7. Monitor & improve**
+Surveiller les performances et améliorer progressivement les solutions.
 
-- LinkedIn :
-- GitHub : [github.com/jnguizo](https://github.com/jnguizo)
-- Email : jordynguizo22@gmail.com
+##  Education
+
+###  Master 2 — Data Science & Intelligence Artificielle
+
+**Institut Supérieur d'Informatique (ISI) — Dakar, Sénégal**
+
+Spécialisation : Machine Learning • Deep Learning • Generative AI • NLP • Computer Vision • MLOps
+
+###  Licence — Mathématiques
+
+**Université Marien Ngouabi — Brazzaville, Congo**
+
+Formation en mathématiques appliquées et fondamentales, avec une base solide en statistiques, probabilités et modélisation.
+
+##  Certifications & Training
+
+*  **SPSS**
+*  **Excel Avancé**
+*  **Kobo Collect**
+*  **Machine Learning**
+*  **Generative AI**
+*  **MLOps**
+*  **Natural Language Processing**
+*  **Computer Vision**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 *« Transformer les données en solutions intelligentes à fort impact. »*
